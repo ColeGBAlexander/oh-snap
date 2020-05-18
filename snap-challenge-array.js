@@ -6,4 +6,3 @@ var myFunction = function(item)  {
 
 myArray.forEach(myFunction);
 
-k
